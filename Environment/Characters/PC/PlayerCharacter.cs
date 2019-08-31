@@ -4,16 +4,28 @@ using System.Text;
 
 namespace Environment
 {
-  public class PlayerCharacter : Character
+  public class PlayerCharacter
   {
-    string name;
-    JobClass jobClass;
+    private string name;
+    private int currentHP = 20;
+    private int maxHP = 20;
+    private int goldAmount = 0;
+    private int currentExperience = 0;
+    private int currentLevel = 1;
+    //List<Items> heldItems;
 
 
-    public PlayerCharacter(string name, double health, JobClass jobClass) : base(health)
+
+    public PlayerCharacter(string name)
     {
       this.name = name;
-      this.jobClass = jobClass;
     }
+
+    public string Name { get; set; }
+    public int CurrentHP { get; set; }
+    public int MaxHP { get; set; }
+    public int GoldAmount { get; set; }
+    public int CurrentExperience { get; set; }
+    public int CurrentLevel { get; set; }
   }
 }

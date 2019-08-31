@@ -26,5 +26,20 @@ namespace MyGame
     {
       InitializeComponent();
     }
+
+
+    private void btnStatus_Click(object sender, RoutedEventArgs e)
+    {
+      StatusScreen statusScreen = new StatusScreen();
+      statusScreen.Show();
+      this.Close();
+    }
+
+    private void btnInventory_Click(object sender, RoutedEventArgs e)
+    {
+      InventoryScreen inventoryScreen = new InventoryScreen();
+      inventoryScreen.Show();
+      this.Close();
+    }
   }
 }

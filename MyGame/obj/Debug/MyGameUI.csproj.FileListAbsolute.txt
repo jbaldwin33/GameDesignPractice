@@ -13,3 +13,8 @@ C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGameU
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGameUI.csproj.CoreCompileInputs.cache
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame.exe
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame.pdb
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGameUI.csproj.CopyComplete
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\InventoryScreen.g.cs
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\StatusScreen.g.cs
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\InventoryScreen.baml
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\StatusScreen.baml
