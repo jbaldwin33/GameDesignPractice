@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\GameDesignPractice\Environment\bin\Debug\netstandard2.0\Environment.deps.json
+C:\Users\USER\source\repos\GameDesignPractice\Environment\bin\Debug\netstandard2.0\Environment.dll
+C:\Users\USER\source\repos\GameDesignPractice\Environment\bin\Debug\netstandard2.0\Environment.pdb
+C:\Users\USER\source\repos\GameDesignPractice\Environment\obj\Debug\netstandard2.0\Environment.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GameDesignPractice\Environment\obj\Debug\netstandard2.0\Environment.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GameDesignPractice\Environment\obj\Debug\netstandard2.0\Environment.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GameDesignPractice\Environment\obj\Debug\netstandard2.0\Environment.AssemblyInfo.cs
+C:\Users\USER\source\repos\GameDesignPractice\Environment\obj\Debug\netstandard2.0\Environment.dll
+C:\Users\USER\source\repos\GameDesignPractice\Environment\obj\Debug\netstandard2.0\Environment.pdb

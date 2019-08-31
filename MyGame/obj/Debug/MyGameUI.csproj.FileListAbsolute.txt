@@ -1,0 +1,15 @@
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\MyGame.exe.config
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\MyGame.exe
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\MyGame.pdb
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGameUI.csprojAssemblyReference.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\App.g.cs
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MainWindow.baml
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame.g.resources
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGameUI.csproj.GenerateResource.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGameUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame.exe
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGame.pdb

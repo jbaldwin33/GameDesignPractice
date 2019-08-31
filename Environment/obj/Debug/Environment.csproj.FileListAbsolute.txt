@@ -1,0 +1,8 @@
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\Environment.dll
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\Environment.pdb
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.AssemblyInfoInputs.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.AssemblyInfo.cs
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.dll
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.pdb
