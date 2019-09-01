@@ -10,6 +10,7 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace MyGame
@@ -17,18 +18,38 @@ namespace MyGame
   /// <summary>
   /// Interaction logic for StatusScreen.xaml
   /// </summary>
-  public partial class StatusScreen : Window
+  public partial class StatusScreen : Page
   {
     public StatusScreen()
     {
       InitializeComponent();
     }
 
+
     private void btnCancel_Click(object sender, RoutedEventArgs e)
     {
       MainWindow mw = new MainWindow();
-      mw.Show();
-      this.Close();
+      this.NavigationService.Navigate(mw);
+    }
+
+    public Label GetNameLabel()
+    {
+      return lblName;
+    }
+
+    public Label GetLevelLabel()
+    {
+      return lblLevel;
+    }
+
+    public Label GetGoldLabel()
+    {
+      return lblGold;
+    }
+
+    public Label GetExperienceLabel()
+    {
+      return lblExperience;
     }
   }
 }

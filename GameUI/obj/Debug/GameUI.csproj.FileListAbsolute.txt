@@ -1,0 +1,12 @@
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.csprojAssemblyReference.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.MainForm.resources
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.StatusScreen.resources
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\GameUI.exe.config
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\GameUI.exe
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\_Debug\GameUI.pdb
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.exe
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\GameUI\obj\Debug\GameUI.pdb

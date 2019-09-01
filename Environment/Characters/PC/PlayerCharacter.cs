@@ -21,11 +21,11 @@ namespace Environment
       this.name = name;
     }
 
-    public string Name { get; set; }
-    public int CurrentHP { get; set; }
-    public int MaxHP { get; set; }
-    public int GoldAmount { get; set; }
-    public int CurrentExperience { get; set; }
-    public int CurrentLevel { get; set; }
+    public string Name { get { return name; } set { name = value; } }
+    public int CurrentHP { get { return currentHP; } set { currentHP = value; } }
+    public int MaxHP { get { return maxHP; } set { maxHP = value; } }
+    public int GoldAmount { get { return goldAmount; } set { goldAmount = value; } }
+    public int CurrentExperience { get { return currentExperience; } set { currentExperience = value; } }
+    public int CurrentLevel { get { return currentLevel; } set { currentLevel = value; } }
   }
 }

@@ -18,7 +18,7 @@ namespace MyGame
   /// <summary>
   /// Interaction logic for MainWindow.xaml
   /// </summary>
-  public partial class MainWindow : Window
+  public partial class MainWindow : System.Windows.Window
   {
     
 
@@ -30,16 +30,20 @@ namespace MyGame
 
     private void btnStatus_Click(object sender, RoutedEventArgs e)
     {
-      StatusScreen statusScreen = new StatusScreen();
-      statusScreen.Show();
-      this.Close();
+      //StatusScreen statusScreen = new StatusScreen();
+      //this.Content = statusScreen;
+
     }
 
     private void btnInventory_Click(object sender, RoutedEventArgs e)
     {
       InventoryScreen inventoryScreen = new InventoryScreen();
-      inventoryScreen.Show();
-      this.Close();
+      this.Content = inventoryScreen;
+    }
+
+    private void btnCancel_Click(object sender, RoutedEventArgs e)
+    {
+      this.Content = null;
     }
   }
 }

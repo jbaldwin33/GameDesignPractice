@@ -18,3 +18,4 @@ C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\Invento
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\StatusScreen.g.cs
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\InventoryScreen.baml
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\StatusScreen.baml
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\MyGame\obj\Debug\MyGameUI.csproj.ResolveComReference.cache
