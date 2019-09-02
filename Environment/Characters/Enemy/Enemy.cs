@@ -1,36 +1,23 @@
 ﻿using System;
-using static Environment.Action;
+using System.Collections.Generic;
 
 namespace Environment
 {
-  public class Enemy : Character
+  public class Enemy : LivingCreature
   {
-    string habitat;
-    double aggro;
-    double aggroRadius;
-    double maxAggro;
-    double maxWaryTime;
-    EnemyType enemyType;
-
-    public Enemy(double health, double attack, double defense, string habitat, double aggro, double aggroRadius, double maxAggro, double maxWaryTime, EnemyType enemyType) : base(health)
+    public Enemy(int id, string name, double maximumHitPoints, double currentHitPoints, int maximumDamage, int rewardExperiencePoints, int rewardGold) : base(name, maximumHitPoints, currentHitPoints)
     {
-      this.Attack = attack * (int)enemyType;
-      this.Defense = defense * (int)enemyType;
-      this.habitat = habitat;
-      this.aggro = aggro;
-      this.aggroRadius = aggroRadius;
-      this.maxAggro = maxAggro;
-      this.maxWaryTime = maxWaryTime;
-      this.enemyType = enemyType;
+      ID = id;
+      MaximumDamage = maximumDamage;
+      RewardExperiencePoints = rewardExperiencePoints;
+      RewardGold = rewardGold;
+      LootTable = new List<LootItem>();
     }
 
-    public void DoAction(ActionType action)
-    {
-      switch (action)
-      {
-        case ActionType.Talk:
-          break;
-      }
-    }
+    public int ID { get; set; }
+    public int MaximumDamage { get; set; }
+    public int RewardExperiencePoints { get; set; }
+    public int RewardGold { get; set; }
+    public List<LootItem> LootTable { get; set; }
   }
 }

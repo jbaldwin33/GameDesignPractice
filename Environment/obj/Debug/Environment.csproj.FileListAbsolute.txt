@@ -5,3 +5,4 @@ C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\En
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.AssemblyInfo.cs
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.dll
 C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.pdb
+C:\Users\USER\Visual Studio Projects\GameDesignPractice\Environment\obj\Debug\Environment.csprojAssemblyReference.cache
